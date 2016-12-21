@@ -1,0 +1,6 @@
+modules:
+  gae_proxy: {auto_start: 1, show_detail: 1}
+  launcher: {allow_remote_connect: 0, control_port: 8085, last_run_version: 3.2.8,
+    proxy: pac, xxnet_port: 8087}
+  x_tunnel: {auto_start: 1}
+update: {last_path: /Users/zhaoweiguo/9tool/XX-Net/code/default/launcher, uuid: 59d465ec-971a-476a-8b54-42a8bf8968a5}

@@ -1,0 +1,5 @@
+Dec 21 13:07:40.229 - [INFO] use config_path:/Users/zhaoweiguo/9tool/XX-Net/data/x_tunnel/client.json
+Dec 21 13:07:40.229 - [INFO] Use proxy:127.0.0.1:8087
+Dec 21 13:07:40.229 - [DEBUG] x-tunnel no account
+Dec 21 13:07:40.229 - [WARNING] x-tunnel session not start
+Dec 21 13:07:40.230 - [INFO] Socks5 server listen:127.0.0.1:1080.
